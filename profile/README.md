@@ -1,4 +1,4 @@
-![Kiwix-Hotspot-Logo](https://github.com/user-attachments/assets/6a342707-da66-417b-889d-fc8cb97cbe57)
+![Kiwix Hotspot-Logo](https://raw.githubusercontent.com/kiwix/overview/refs/heads/main/branding/kiwix-hotspot/horizontal-logo.svg)
 
 ## Tutorial
 
